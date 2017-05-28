@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Basic Android</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lifecycle">Lifecycle Demo</string>
+
+    <string name="title_activity_hello">Hello</string>
+    <string name="button_text">Say Hello</string>
+    <string name="button_clicked_text">OK</string>
+
+
+    <string name="first_activity_btn_text">GO!</string>
+    <string name="tvText">Activity Two</string>
+
+</resources>
